@@ -1,0 +1,478 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2015 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2015 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2025 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2025 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2035 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2035 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2045 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2045 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2055 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2055 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2065 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2065 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2075 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2075 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2085 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2085 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2095 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2095 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2105 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2105 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2115 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2115 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2125 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2125 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2135 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2135 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2145 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2145 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2155 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2155 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2165 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2165 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2175 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2175 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2185 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2185 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2195 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2195 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2205 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2205 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2215 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2215 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2225 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2225 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2235 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2235 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2245 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2245 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2255 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2255 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2265 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2265 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2275 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2275 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2285 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2285 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2295 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2295 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2305 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2305 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2315 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2315 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2325 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2325 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2335 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2335 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2345 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2345 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2355 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2355 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2365 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2365 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2375 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2375 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2385 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2385 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2395 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2395 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2405 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2405 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2415 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2415 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2425 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2425 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2435 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2435 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2445 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2445 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2455 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2455 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2465 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2465 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2475 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2475 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2485 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2485 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2495 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2495 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2505 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2505 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2515 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2515 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2525 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2525 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2535 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2535 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2545 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2545 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2555 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2555 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2565 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2565 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2575 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2575 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2585 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2585 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2595 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2595 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2605 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2605 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2615 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2615 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2625 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2625 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2635 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2635 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2645 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2645 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2655 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2655 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2665 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2665 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2675 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2675 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2685 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2685 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2695 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2695 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2705 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2705 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2715 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2715 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2725 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2725 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2735 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2735 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2745 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2745 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2755 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2755 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2765 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2765 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2775 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2775 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2785 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2785 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2795 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2795 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2805 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2805 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2815 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2815 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2825 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2825 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2835 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2835 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2845 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2845 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2855 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2855 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2865 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2865 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2875 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2875 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2885 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2885 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2895 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2895 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2905 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2905 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2915 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2915 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2925 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2925 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2935 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2935 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2945 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2945 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2955 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2955 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2965 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2965 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2975 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2975 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2985 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2985 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 2995 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 2995 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3005 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3005 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3015 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3015 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3025 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3025 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3035 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3035 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3045 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3045 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3055 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3055 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3065 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3065 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3075 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3075 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3085 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3085 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3095 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3095 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3105 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3105 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3115 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3115 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3125 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3125 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3135 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3135 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3145 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3145 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3155 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3155 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3165 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3165 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3175 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3175 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3185 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3185 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Error: File input.txt is already at the end of file, nothing to read
+Time: 3195 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 3195 ns  Iteration: 0  Process: /testbench/line__90  File: C:/Users/raduc/FIR_Filter/FIR_Filter.srcs/sources_1/new/testbench.vhd

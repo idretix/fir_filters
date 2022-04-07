@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Nov 18 20:27:17 2021
+# Process ID: 6732
+# Current directory: C:/Users/raduc/FIR_Filter/FIR_Filter.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12152 C:\Users\raduc\FIR_Filter\FIR_Filter.sim\sim_1\behav\xsim\fir_filter_behav.wdb
+# Log file: C:/Users/raduc/FIR_Filter/FIR_Filter.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/raduc/FIR_Filter/FIR_Filter.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\raduc\FIR_Filter\FIR_Filter.sim\sim_1\behav\xsim\fir_filter_behav.wdb}
+close_sim

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="testbench" />
+            <top_module name="types" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="153601fs"></ZoomEndTime>
+      <Cursor1Time time="39400fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="128"></NameColumnWidth>
+      <ValueColumnWidth column_width="135"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/testbench/fir/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/fir/data" type="array">
+      <obj_property name="ElementShortName">data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFD700</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/fir/result" type="array">
+      <obj_property name="ElementShortName">result[15:0]</obj_property>
+      <obj_property name="ObjectShortName">result[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FAAFBE</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/result2" type="array">
+      <obj_property name="ElementShortName">result2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">result2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/result3" type="array">
+      <obj_property name="ElementShortName">result3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">result3[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/result4" type="array">
+      <obj_property name="ElementShortName">result4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">result4[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/output" type="array">
+      <obj_property name="ElementShortName">output[15:0]</obj_property>
+      <obj_property name="ObjectShortName">output[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/fir/coefficient" type="array">
+      <obj_property name="ElementShortName">coefficient[0:19][7:0]</obj_property>
+      <obj_property name="ObjectShortName">coefficient[0:19][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/fir/data_pipeline" type="array">
+      <obj_property name="ElementShortName">data_pipeline[0:19][7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_pipeline[0:19][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/fir/products" type="array">
+      <obj_property name="ElementShortName">products[0:19][15:0]</obj_property>
+      <obj_property name="ObjectShortName">products[0:19][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/fir/coeff" type="array">
+      <obj_property name="ElementShortName">coeff[0:19][7:0]</obj_property>
+      <obj_property name="ObjectShortName">coeff[0:19][7:0]</obj_property>
+   </wvobject>
+</wave_config>
